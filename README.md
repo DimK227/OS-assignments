@@ -16,6 +16,4 @@ Project 3 is about shared memory management and semaphores.
 
 **PRJ4**
 
-Project 4 
-
 Project 4 is about making a fastest cp command (quick incremental copy)
